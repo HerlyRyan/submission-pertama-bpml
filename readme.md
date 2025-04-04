@@ -11,7 +11,7 @@ Pastikan Anda telah menginstal perangkat lunak berikut:
 ## Instalasi
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/username/submission-pertama-bpml.git
     ```
 2. Masuk ke direktori proyek:
     ```bash
@@ -27,13 +27,6 @@ Pastikan Anda telah menginstal perangkat lunak berikut:
     ```bash
     pip install -r requirements.txt
     ```
-
-## Cara Menjalankan
-1. Jalankan skrip utama:
-    ```bash
-    python main.py
-    ```
-2. Ikuti instruksi yang muncul di terminal.
 
 ## Struktur Direktori
 ```
